@@ -1,1 +1,23 @@
- requirement  - exam qprelqted documents
+﻿How to prepare a question paper?
+- syllabus
+- type of questions(2/7/14 mark questions)
+- Higher order thinking questions
+- syllabus and SOP has to be uploaded in the software, 
+- questions has to be auto generated 
+- also need provision to add questions manually
+- questions need to be in printable version
+- Tag people to review the question paper
+- questions has to undergo 3 levels of review
+- reviewer should give suggestions on the questions
+- after review the status of the question paper has to intimated.
+- Validating number of questions and question duplications
+- validating mark limits
+- grammer check
+- sticking to the rules (portions)
+- image upload option for questions
+- limiting the no. of lines for each question
+- provision to upload the question bank(sample questions) to generate question paper
+
+
+dependencies:
+1.
